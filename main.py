@@ -1,5 +1,5 @@
-print ('hello world!')
-print ('jello')
+for i in range (10):
+  print ('jello')
 
 
 
