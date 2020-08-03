@@ -1,9 +1,9 @@
-for i in range (10):
+for i in range (2):
   print ('jello')
-  print (i)
 print ('bye')
 
 # i is a variable, something that can change
+# can use "print (i)" to print the number of times that the variable was printed
 
 # conditionals: if/else statements
 
@@ -27,3 +27,28 @@ print('hello: ' + book.get('hello'))
 
 # has to be book.get
 # to combine two strings together, use a +
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
