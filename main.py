@@ -1,3 +1,5 @@
+#for loops
+
 for i in range (2):
   print ('jello')
   print (i)
@@ -40,7 +42,39 @@ print('hello: ' + book.get('hello'))
 
 
 
+# different types of variables
 
+word = 'words'
+# string
+# contains letters, vowels and symbols
+
+j = '15'
+# int/float
+# contains integers (numbers that are not fractions and decimals)
+
+j = True
+# boolean
+# contains True/False statements
+
+
+
+
+
+
+# string manupulation
+
+words = 'good morning'
+
+print(words)
+# prints words
+print(words.upper())
+# prints words in uppercase
+print(words.lower())
+# prints words in lowecase
+print(words.replace('good', 'bad'))
+# prints the words, but replaces one word/letter with another
+print(len(words))
+# prints the number of characters in words
 
 
 
